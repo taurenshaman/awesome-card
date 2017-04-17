@@ -2,7 +2,9 @@
 A curated list of Card implementations.
 
 ## Web fore-end library
-* [semantic-ui](https://semantic-ui.com/views/card.html) CSS
+* [Foundation](http://foundation.zurb.com/sites/docs/card.html) CSS
+* [Semantic-UI](https://semantic-ui.com/views/card.html) CSS
+* [UIKit](https://getuikit.com/docs/card) CSS
 
 ## CMS
 * [awesome-blog-card@digitalroni](https://github.com/digitalroni/awesome-blog-card) CSS
