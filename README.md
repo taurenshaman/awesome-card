@@ -2,6 +2,7 @@
 A curated list of Card implementations.
 
 ## Web front-end library
+* [Core_CSS](https://coreui.net/docs.html#cards) CSS; Material Design
 * [Foundation](http://foundation.zurb.com/sites/docs/card.html) CSS
 * [Semantic-UI](https://semantic-ui.com/views/card.html) CSS
 * [UIKit](https://getuikit.com/docs/card) CSS
