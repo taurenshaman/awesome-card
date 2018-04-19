@@ -4,7 +4,10 @@ A curated list of Card implementations.
 ## Web front-end library
 * [Bootstrap](http://getbootstrap.com/docs/4.0/components/card/) CSS
 * [Core_CSS](https://coreui.net/docs.html#cards) CSS; Material Design
+* [Element](http://element.eleme.io/#/en-US/component/card) CSS; Vue
 * [Foundation](http://foundation.zurb.com/sites/docs/card.html) CSS
+* [Material Design Lite](https://getmdl.io/components/index.html#cards-section) CSS; Material Design
+* [Material-UI](http://www.material-ui.com/#/components/card) CSS; Material Design
 * [Metro](https://metroui.org.ua/cards.html) CSS; Metro; Modern
 * [Semantic-UI](https://semantic-ui.com/views/card.html) CSS
 * [UIKit](https://getuikit.com/docs/card) CSS
