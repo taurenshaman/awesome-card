@@ -1,6 +1,10 @@
 # awesome-card
 A curated list of Card implementations.
 
+## Cross Platform
+* [Adaptive Card](http://adaptivecards.io/) open card exchange format; UI content. 
+[schema](http://adaptivecards.io/explorer)  [visualizer](http://adaptivecards.io/visualizer)  [docs](https://docs.microsoft.com/en-us/adaptive-cards)
+
 ## Web front-end library
 * [Bootstrap](http://getbootstrap.com/docs/4.0/components/card/) CSS
 * [Core_CSS](https://coreui.net/docs.html#cards) CSS; Material Design
