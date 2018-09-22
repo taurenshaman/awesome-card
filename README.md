@@ -29,6 +29,7 @@ A curated list of Card implementations.
 
 ## Device
 * Android: [Reference v7: CardView](https://developer.android.com/reference/android/support/v7/widget/CardView), [Create a Card-Based Layout](https://developer.android.com/guide/topics/ui/layout/cardview)
+* iOS: [Cards by material.io](https://material.io/develop/ios/components/cards/)
 
 ## Others
 * [awesome_cards@Kitsopappas](https://github.com/Kitsopappas/awesome_cards) PHP; CSS
