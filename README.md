@@ -12,7 +12,7 @@ A curated list of Card implementations.
 * [Foundation](http://foundation.zurb.com/sites/docs/card.html) CSS
 * [Material Design Lite](https://getmdl.io/components/index.html#cards-section) CSS; Material Design
 * [Material-UI](http://www.material-ui.com/#/components/card) CSS; Material Design
-* [Metro](https://metroui.org.ua/cards.html) CSS; Metro; Modern
+* [Metro](https://metroui.org.ua/cards.html) CSS; Metro; Modern. Supports card elements: image header; icon; likes/statistics; more info box; skill box; social box.
 * [Semantic-UI](https://semantic-ui.com/views/card.html) CSS
 * [UIKit](https://getuikit.com/docs/card) CSS
 
